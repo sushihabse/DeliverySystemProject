@@ -1,0 +1,68 @@
+[29-Jun-2022 06:07:09 UTC] PHP Warning:  require_once(../connect.php): failed to open stream: No such file or directory in /home/enamdev/public_html/admin/delete_data.php on line 2
+[29-Jun-2022 06:07:09 UTC] PHP Fatal error:  require_once(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/enamdev/public_html/admin/delete_data.php on line 2
+[29-Jun-2022 06:09:49 UTC] PHP Warning:  require_once(../connect.php): failed to open stream: No such file or directory in /home/enamdev/public_html/admin/delete_data.php on line 2
+[29-Jun-2022 06:09:49 UTC] PHP Fatal error:  require_once(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/enamdev/public_html/admin/delete_data.php on line 2
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 78
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 78
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 79
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 79
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 89
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 105
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 105
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 105
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 105
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 105
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 105
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 116
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 116
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 120
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 120
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 124
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 124
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 128
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 128
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 132
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 132
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 136
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 136
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 153
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 153
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 157
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 157
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 161
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 161
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: sqlall in /home/enamdev/public_html/admin/invoice_edit.php on line 164
+[29-Jun-2022 09:22:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/enamdev/public_html/admin/invoice_edit.php on line 164
+[29-Jun-2022 09:22:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/enamdev/public_html/admin/invoice_edit.php on line 166
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 200
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 200
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 204
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 204
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 208
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 208
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 212
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 212
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 218
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 218
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/invoice_edit.php on line 222
+[29-Jun-2022 09:22:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/admin/invoice_edit.php on line 222
+[29-Jun-2022 10:27:43 UTC] PHP Notice:  Undefined variable: data in /home/enamdev/public_html/admin/assign_deliver_status.php on line 14

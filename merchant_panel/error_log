@@ -1,0 +1,425 @@
+[22-Jun-2022 09:05:10 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[22-Jun-2022 09:05:10 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[22-Jun-2022 09:58:57 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[22-Jun-2022 09:58:57 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[22-Jun-2022 15:24:42 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[22-Jun-2022 15:24:42 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 18
+[22-Jun-2022 15:24:42 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 55
+[22-Jun-2022 15:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/enamdev/public_html/merchant_panel/dashboard.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/enamdev/public_html/merchant_panel/dashboard.php on line 57
+[22-Jun-2022 15:24:42 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[22-Jun-2022 15:24:42 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[23-Jun-2022 03:51:30 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 03:51:30 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[23-Jun-2022 03:53:52 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 03:53:52 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[23-Jun-2022 03:53:53 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 03:53:53 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[23-Jun-2022 04:48:49 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 04:48:49 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[23-Jun-2022 05:22:58 UTC] PHP Notice:  Undefined variable: x in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 176
+[23-Jun-2022 05:23:00 UTC] PHP Notice:  Undefined variable: x in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 176
+[23-Jun-2022 09:45:12 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 09:45:12 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 64
+[23-Jun-2022 09:51:45 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 178
+[23-Jun-2022 11:43:59 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 11:43:59 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 66
+[23-Jun-2022 11:58:04 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 11:58:04 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 66
+[23-Jun-2022 12:05:12 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 12:05:12 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 66
+[23-Jun-2022 12:05:57 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 12:05:57 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 66
+[23-Jun-2022 12:57:47 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 12:57:47 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 66
+[23-Jun-2022 12:57:58 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 12:57:58 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/mrcn_customer.php on line 42
+[23-Jun-2022 12:58:00 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 12:58:00 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/merchant_invoice.php on line 60
+[23-Jun-2022 12:58:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/enamdev/public_html/merchant_panel/merchant_invoice.php on line 65
+[23-Jun-2022 12:58:01 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 12:58:01 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 18
+[23-Jun-2022 12:58:01 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 55
+[23-Jun-2022 12:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/enamdev/public_html/merchant_panel/dashboard.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/enamdev/public_html/merchant_panel/dashboard.php on line 57
+[23-Jun-2022 17:55:59 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 17:55:59 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 66
+[23-Jun-2022 19:37:08 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[23-Jun-2022 19:37:08 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 66
+[23-Jun-2022 19:42:04 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 35
+[23-Jun-2022 19:42:04 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 35
+[23-Jun-2022 19:42:04 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 36
+[23-Jun-2022 19:42:04 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 36
+[24-Jun-2022 04:09:43 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[24-Jun-2022 04:09:43 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 65
+[24-Jun-2022 04:15:15 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[24-Jun-2022 04:15:15 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 65
+[24-Jun-2022 06:24:32 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[24-Jun-2022 06:24:32 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 65
+[24-Jun-2022 07:02:39 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[24-Jun-2022 07:02:39 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 65
+[24-Jun-2022 08:35:00 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[24-Jun-2022 08:35:00 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 65
+[24-Jun-2022 10:25:24 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[24-Jun-2022 10:25:24 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 65
+[25-Jun-2022 03:36:50 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[25-Jun-2022 03:36:50 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 18
+[25-Jun-2022 03:36:50 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 55
+[25-Jun-2022 03:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/enamdev/public_html/merchant_panel/dashboard.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/enamdev/public_html/merchant_panel/dashboard.php on line 57
+[25-Jun-2022 12:17:06 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/max_id.php on line 7
+[25-Jun-2022 12:17:51 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/max_id.php on line 7
+[25-Jun-2022 12:19:04 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/max_id.php on line 8
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Undefined index: sub_total in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 22
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Undefined index: totaldeliverycharge in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 23
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Undefined index: grandtotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Undefined index: duesamount in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 26
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:28:02 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 12:29:47 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[25-Jun-2022 12:29:47 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 70
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Undefined index: sub_total in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 22
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Undefined index: totaldeliverycharge in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 23
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Undefined index: grandtotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Undefined index: duesamount in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 26
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 12:51:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Undefined index: sub_total in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 22
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Undefined index: totaldeliverycharge in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 23
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Undefined index: grandtotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Undefined index: duesamount in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 26
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 13:03:50 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined index: sub_total in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 22
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined index: totaldeliverycharge in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 23
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined index: grandtotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined index: duesamount in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 26
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 13:15:06 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined index: sub_total in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 22
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined index: totaldeliverycharge in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 23
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined index: grandtotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined index: duesamount in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 26
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 39
+[25-Jun-2022 15:29:13 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 40
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 23
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined index: sub_total in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined index: totaldeliverycharge in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 25
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined index: grandtotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 26
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined index: duesamount in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 28
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 41
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 41
+[25-Jun-2022 16:01:02 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 42
+[25-Jun-2022 16:27:51 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:28:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:28:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:28:15 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:28:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:28:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:34:56 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:35:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:35:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:35:40 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:35:40 UTC] PHP Warning:  A non-numeric value encountered in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:35:40 UTC] PHP Warning:  A non-numeric value encountered in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:35:40 UTC] PHP Warning:  A non-numeric value encountered in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:35:40 UTC] PHP Warning:  A non-numeric value encountered in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:35:40 UTC] PHP Warning:  A non-numeric value encountered in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:35:40 UTC] PHP Warning:  A non-numeric value encountered in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:35:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:35:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:40:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:40:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:40:42 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:40:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:40:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:43:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:43:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:43:03 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:43:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:43:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:46:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:46:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:46:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:46:46 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:46:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:46:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:46:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:46:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:47:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:47:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:47:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:47:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:47:53 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:47:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:47:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:47:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:48:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:48:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:48:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:48:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:50:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:50:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:50:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:50:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Undefined index: productotal in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 21
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:57:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:57:30 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:57:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:58:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:58:12 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:58:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:58:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:58:41 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 24
+[25-Jun-2022 16:58:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:58:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:59:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:59:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:59:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:59:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 16:59:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 16:59:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 17:01:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:01:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:01:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 17:01:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[25-Jun-2022 17:09:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 89
+[25-Jun-2022 17:09:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 89
+[25-Jun-2022 17:11:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 89
+[25-Jun-2022 17:11:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 89
+[25-Jun-2022 17:11:31 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[25-Jun-2022 17:11:31 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 89
+[25-Jun-2022 17:17:43 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 59
+[25-Jun-2022 17:17:43 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 58
+[25-Jun-2022 17:17:43 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 58
+[25-Jun-2022 17:17:43 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 59
+[25-Jun-2022 17:17:43 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 59
+[25-Jun-2022 17:17:43 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 59
+[25-Jun-2022 17:31:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 44
+[25-Jun-2022 17:31:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 17:31:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 44
+[25-Jun-2022 17:31:20 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 44
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 44
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 95
+[25-Jun-2022 17:31:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 95
+[25-Jun-2022 17:35:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 95
+[25-Jun-2022 17:35:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 95
+[25-Jun-2022 17:36:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:36:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:36:54 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 17:36:54 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 17:36:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 95
+[25-Jun-2022 17:36:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 95
+[25-Jun-2022 17:38:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:38:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:39:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:39:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:39:53 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 46
+[25-Jun-2022 17:39:53 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 33
+[25-Jun-2022 17:39:53 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 46
+[25-Jun-2022 17:39:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:39:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:41:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:41:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:41:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:41:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:42:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:42:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 17:42:46 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 46
+[25-Jun-2022 17:42:46 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 33
+[25-Jun-2022 17:42:46 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 46
+[25-Jun-2022 17:42:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 17:42:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 18:38:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:38:32 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 33
+[25-Jun-2022 18:38:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 18:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 96
+[25-Jun-2022 18:41:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 86
+[25-Jun-2022 18:41:32 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[25-Jun-2022 18:41:32 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 103
+[25-Jun-2022 18:43:13 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 33
+[25-Jun-2022 18:46:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 217
+[25-Jun-2022 18:47:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:47:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:47:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:47:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:47:48 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 18:47:48 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 18:47:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:47:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:48:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:48:51 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 18:48:51 UTC] PHP Notice:  Array to string conversion in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 45
+[25-Jun-2022 18:48:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:48:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:49:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 18:49:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 18:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 102
+[25-Jun-2022 19:05:45 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 32
+[25-Jun-2022 19:10:52 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 32
+[25-Jun-2022 19:13:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:13:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:14:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:14:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:15:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 19:15:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 19:15:19 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 32
+[25-Jun-2022 19:15:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:15:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:16:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 19:16:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 19:16:53 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 32
+[25-Jun-2022 19:16:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:16:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:16:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:16:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:17:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:17:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:17:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 19:17:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[25-Jun-2022 19:17:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[25-Jun-2022 19:17:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 05:48:35 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 32
+[26-Jun-2022 05:48:35 UTC] PHP Notice:  Undefined offset: 2 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 32
+[26-Jun-2022 08:56:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 195
+[26-Jun-2022 08:58:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[26-Jun-2022 08:58:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[26-Jun-2022 08:58:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 08:58:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:01:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:01:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:01:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[26-Jun-2022 09:01:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[26-Jun-2022 09:01:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:01:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:06:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[26-Jun-2022 09:06:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 6
+[26-Jun-2022 09:06:17 UTC] PHP Notice:  Undefined offset: 1 in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 32
+[26-Jun-2022 09:06:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[26-Jun-2022 09:06:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[26-Jun-2022 09:06:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:06:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:07:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 09:07:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 16:25:18 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[26-Jun-2022 16:25:18 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[26-Jun-2022 18:34:47 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[26-Jun-2022 18:34:47 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[27-Jun-2022 01:58:34 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[27-Jun-2022 01:58:34 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[27-Jun-2022 12:52:02 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[27-Jun-2022 12:52:02 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 73
+[28-Jun-2022 09:50:13 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[28-Jun-2022 09:50:13 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:53:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 7
+[28-Jun-2022 09:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 7
+[28-Jun-2022 09:53:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:54:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 7
+[28-Jun-2022 09:54:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 7
+[28-Jun-2022 09:54:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:54:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:57:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:57:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:58:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 7
+[28-Jun-2022 09:58:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 7
+[28-Jun-2022 09:58:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 09:58:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 11:05:03 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[28-Jun-2022 11:05:03 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 11:59:51 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[28-Jun-2022 11:59:51 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 18
+[28-Jun-2022 11:59:51 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/dashboard.php on line 55
+[28-Jun-2022 11:59:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/enamdev/public_html/merchant_panel/dashboard.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/enamdev/public_html/merchant_panel/dashboard.php on line 57
+[28-Jun-2022 12:30:54 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[28-Jun-2022 12:30:54 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/merchant_invoice.php on line 58
+[28-Jun-2022 12:30:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/enamdev/public_html/merchant_panel/merchant_invoice.php on line 63
+[28-Jun-2022 17:35:21 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[28-Jun-2022 17:35:21 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74
+[28-Jun-2022 18:29:48 UTC] PHP Notice:  Undefined index: mrcnStatus in /home/enamdev/public_html/merchant_panel/mrcn_header.php on line 4
+[28-Jun-2022 18:29:48 UTC] PHP Notice:  Undefined index: mrchId in /home/enamdev/public_html/merchant_panel/customer_invoice.php on line 74

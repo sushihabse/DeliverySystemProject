@@ -1,0 +1,124 @@
+[18-Jun-2022 20:01:18 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[18-Jun-2022 20:08:32 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[20-Jun-2022 16:41:37 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[20-Jun-2022 19:17:46 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[20-Jun-2022 19:17:46 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[20-Jun-2022 19:17:46 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[20-Jun-2022 19:26:56 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[20-Jun-2022 19:26:56 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[20-Jun-2022 19:26:56 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[21-Jun-2022 11:32:12 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[21-Jun-2022 11:32:12 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[21-Jun-2022 11:32:12 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[21-Jun-2022 12:49:13 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[21-Jun-2022 12:49:13 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[21-Jun-2022 12:49:13 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[21-Jun-2022 13:02:03 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[21-Jun-2022 16:55:02 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[21-Jun-2022 17:22:07 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[21-Jun-2022 17:22:07 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[21-Jun-2022 17:22:07 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[21-Jun-2022 18:41:17 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[22-Jun-2022 05:24:13 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[22-Jun-2022 06:48:16 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[22-Jun-2022 13:10:51 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[23-Jun-2022 09:04:55 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[23-Jun-2022 12:00:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/enamdev/public_html/connection.php on line 2
+[23-Jun-2022 12:03:13 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[23-Jun-2022 12:03:13 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[23-Jun-2022 12:03:13 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[23-Jun-2022 12:51:25 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[23-Jun-2022 12:51:25 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[23-Jun-2022 12:51:25 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[23-Jun-2022 12:59:55 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[23-Jun-2022 12:59:55 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[23-Jun-2022 12:59:55 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[23-Jun-2022 13:05:44 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[23-Jun-2022 18:39:42 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[24-Jun-2022 04:18:52 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[24-Jun-2022 07:10:05 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[24-Jun-2022 07:10:05 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[24-Jun-2022 07:10:05 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[24-Jun-2022 09:55:47 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[24-Jun-2022 09:55:47 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[24-Jun-2022 09:55:47 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[25-Jun-2022 13:16:22 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[25-Jun-2022 13:16:22 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[25-Jun-2022 13:16:22 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[25-Jun-2022 18:56:33 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[25-Jun-2022 18:56:33 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[25-Jun-2022 18:56:33 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[25-Jun-2022 19:12:27 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[25-Jun-2022 19:20:50 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[25-Jun-2022 19:20:50 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[25-Jun-2022 19:20:50 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[26-Jun-2022 04:38:58 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[26-Jun-2022 08:56:46 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[26-Jun-2022 09:07:20 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[26-Jun-2022 09:07:20 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[26-Jun-2022 09:07:20 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[26-Jun-2022 09:07:29 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[26-Jun-2022 09:07:29 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[26-Jun-2022 09:07:29 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[26-Jun-2022 12:05:33 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[26-Jun-2022 12:54:49 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[26-Jun-2022 12:57:54 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[27-Jun-2022 12:59:36 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[27-Jun-2022 12:59:36 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[27-Jun-2022 12:59:36 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[27-Jun-2022 13:00:49 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[27-Jun-2022 16:56:32 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[27-Jun-2022 17:18:32 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[28-Jun-2022 11:05:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/enamdev/public_html/connection.php on line 2
+[28-Jun-2022 12:01:40 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[28-Jun-2022 12:01:40 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[28-Jun-2022 12:01:40 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[28-Jun-2022 13:23:01 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[28-Jun-2022 13:23:16 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[28-Jun-2022 13:23:16 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[28-Jun-2022 13:23:16 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[28-Jun-2022 15:32:43 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[28-Jun-2022 18:30:07 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[28-Jun-2022 18:30:07 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[28-Jun-2022 18:30:07 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[28-Jun-2022 18:30:47 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[28-Jun-2022 18:32:33 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[28-Jun-2022 18:32:33 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[28-Jun-2022 18:32:33 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 06:55:21 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 06:55:21 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 06:55:21 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 09:07:31 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 09:59:26 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:10:13 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 10:10:13 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 10:10:13 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:10:18 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 10:10:18 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 10:10:18 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:15:24 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:18:49 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 10:18:49 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 10:18:49 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:23:06 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:26:56 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 10:26:56 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 10:26:56 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:27:57 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:28:36 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 10:28:36 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 10:28:36 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:32:28 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:33:55 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 10:33:55 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 10:33:55 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 10:34:41 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 10:34:41 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 10:34:41 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[29-Jun-2022 11:36:51 UTC] PHP Notice:  Undefined index: userName in /home/enamdev/public_html/logout.php on line 3
+[29-Jun-2022 11:36:51 UTC] PHP Notice:  Undefined index: userType in /home/enamdev/public_html/logout.php on line 4
+[29-Jun-2022 11:36:51 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/enamdev/public_html/logout.php on line 5
+[21-Jul-2022 15:28:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'enamdev'@'mars.simplecplogin.com' (using password: YES) in /home/sushihab/public_html/deliveryProject/connection.php on line 2
+[21-Jul-2022 15:53:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'enamdev'@'mars.simplecplogin.com' (using password: YES) in /home/sushihab/public_html/deliveryProject/connection.php on line 2
+[21-Jul-2022 18:02:10 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 2 given in /home/sushihab/del.sushihab.xyz/logout.php on line 5
+[31-Jul-2022 05:38:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/sushihab/del.sushihab.xyz/connection.php on line 2

@@ -1,0 +1,89 @@
+fonts {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: #ffffff
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+    font-family: 'Roboto', sans-serif;
+}
+
+a,
+a:hover,
+a:focus {
+    font-family: 'Roboto', sans-serif;
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.login_form {
+    width: 70%;
+    height: 550px;
+    background-image:#ffffff;
+    display: block;
+    margin: 0 auto;
+    margin-top: 42px;
+    box-shadow: 10px 10px 11px #636363c2;
+    border-radius: 5px;
+}
+.mrcn_login{
+    width: 70%;
+    height: 550px;
+    background-image: #ffffff;
+    display: block;
+    margin: 0 auto;
+    margin-top: 42px;
+    box-shadow: 10px 10px 11px #636363c2;
+    border-radius: 5px;
+}
+
+.form {
+    margin: 50px 0px 0px 65px;
+    padding: 0px 120px 0px 0px;
+    border-right: 1px solid #0000003d;
+}
+
+.form label {
+    padding: 15px 0px 0px 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.form input {
+    border-radius: 10px;
+    padding: 5px 12px;
+}
+
+.right-head h5 {
+    font-size: 20px;
+    font-weight: 500;
+}
+.modal-content {
+    background-image: linear-gradient(to right, #82f7c0, #55e0d9);
+}

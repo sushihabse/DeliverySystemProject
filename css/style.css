@@ -1,0 +1,269 @@
+fonts {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(to right, #ffffff, #dfdfdf);
+}
+
+p {
+    font-size: 1.1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+    font-weight: bold;
+}
+
+a,
+a:hover,
+a:focus {
+    font-family: 'Roboto', sans-serif;
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.navbar {
+    border: none;
+    border-radius: 0;
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+}
+
+i,
+span {
+    display: inline-block;
+}
+/*============SCROLBAR STYLE ===========*/
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #35363ad1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1A262B; 
+}
+/*============SIDEBAR STYLE ===========*/
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+    background: #1A262B;
+    color: #fff;
+    transition: all 0.3s;
+    /* position: fixed; */
+}
+
+#sidebar.active {
+    min-width: 100px;
+    max-width: 100px;
+    text-align: center;
+}
+
+#sidebar.active .sidebar-header h3,
+#sidebar.active .CTAs {
+    display: none;
+}
+
+#sidebar.active .sidebar-header strong {
+    display: block;
+}
+
+#sidebar ul li a {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+#sidebar.active ul li a {
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 0.85em;
+}
+
+#sidebar.active ul li a i {
+    margin-right: 0;
+    display: block;
+    font-size: 1.8em;
+    margin-bottom: 5px;
+}
+
+#sidebar.active ul ul a {
+    padding: 10px !important;
+}
+
+#sidebar .sidebar-header {
+    text-align: center;
+}
+
+#sidebar .sidebar-header h3 {
+    font-family: 'Oswald', sans-serif;
+    padding: 20px;
+}
+
+#sidebar .sidebar-header strong {
+    display: none;
+    font-size: 1.8em;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+    transition: 0.8s;
+}
+
+#sidebar ul li a:hover {
+    color: #1A262B;
+    background: #fff;
+    font-weight: 600;
+}
+
+#sidebar ul li a i {
+    margin-right: 10px;
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #6d7fcc;
+}
+
+.icons ul li a {
+    font-size: 20px;
+    padding: 0px 10px;
+}
+
+.icons ul li a:hover {
+    color: #fff;
+}
+
+.user-icon {
+    margin-right: 146px;
+}
+
+.dropdown-menu {
+    border: none;
+    background: #fffc;
+    margin-top: 22px !important;
+}
+
+.manu-button {
+    margin-left: 9px;
+    border: none;
+    font-size: 30px;
+    color: #464545;
+}
+
+.manu-button:hover {
+    border: none;
+    color: #fff;
+}
+
+#top-bar {
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    height: 58px;
+    transition: all 0.3s;
+    background-image: linear-gradient(to right, #4bb5f7, #01498d);
+}
+
+.side-menu {
+    height:100%;
+    z-index: 1;
+    position: fixed;
+    margin-top: 58px;
+}
+
+.card-1 {
+    background-image: linear-gradient(to right, #4bb5f7, #01498d);
+    transition: 1s;
+}
+.card-1:hover {
+    background-image: linear-gradient(to right,#01498d, #4bb5f7);
+}
+
+.card-2 {
+    background-image: linear-gradient(to right, #41E296, #3CB8B2);
+    transition: 1s;
+}
+.card-2:hover {
+    background-image: linear-gradient(to right, #3CB8B2, #41E296);
+}
+
+.card-3 {
+    background-image: linear-gradient(to right, #FFDB41, #FF9153);
+    transition: 1s;
+}
+.card-3:hover {
+    background-image: linear-gradient(to right, #FF9153, #FFDB41);
+}
+
+.cards {
+    color: #1A262B;
+    border: none;
+}
+
+.main-content {
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.cards-icons {
+    font-size: 40px;
+    margin: 30px 0px 0px 6px;
+}
+.append{
+    margin-top: -60px;
+}
+/*==========INVOICE CSS================*/
+.invID{
+    padding-left: 22%;
+}
+.inv-total{
+    padding-left: 21%;
+}
+.padding{
+    padding-left: 30% !important;
+}
+.rep-btn{
+    color: #333333 !important;
+    font-weight: 500;
+    border: 1px solid black !important;
+}
+.rep-btn:active{
+    color: #fff !important;
+    border: 1px solid #0D6EFD;
+}
+.rep-btn:hover{
+    color: #fff !important;
+    border: 1px solid #0D6EFD !important;
+    background:#0D6EFD;
+}
+
+
